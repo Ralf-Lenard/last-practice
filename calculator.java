@@ -6,11 +6,13 @@ public class calculator{
         int d = a - b;
         int e = a * b;
         int f = a / b;
+        int g = a / b;
 
 
         System.out.println("addition ito: " + c);
         System.out.println("addition ito: " + d);
         System.out.println("multiplication   ito: " + e);
         System.out.println("divisionnn ito: " + f);
+        System.out.println("modulussss ito: " + g);
     }
 }
